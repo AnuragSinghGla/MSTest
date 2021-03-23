@@ -1,0 +1,14 @@
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\UnitTestMSExercise45.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\UnitTestMSExercise45.pdb
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\obj\Debug\UnitTestMSExercise45.csprojAssemblyReference.cache
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\obj\Debug\UnitTestMSExercise45.csproj.CoreCompileInputs.cache
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\obj\Debug\UnitTestMSExercise45.csproj.CopyComplete
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\obj\Debug\UnitTestMSExercise45.dll
+F:\coforge\day-45\UnitTestMSExercise45\UnitTestMSExercise45\obj\Debug\UnitTestMSExercise45.pdb
